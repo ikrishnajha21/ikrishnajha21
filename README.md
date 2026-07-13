@@ -1,0 +1,112 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" alt="Krishna Jha banner" width="100%">
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;AR%2FVR+Vibe+Coder;Python+%26+C+Engineer;Always+Building+Something;&font=JetBrains+Mono&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&height=40&separator=false" alt="typing banner">
+
+</div>
+
+<br>
+
+## About Me
+
+I'm **Krishna Jha**, a developer who builds across the full stack and pushes into immersive computing. I care about clean, fast interfaces on the web and equally love bringing ideas to life in AR/VR — I build with intent, prototype fast, and iterate in the open ("vibe coding" done with real engineering discipline underneath).
+
+- 🔭 Currently building projects across the **MERN stack**
+- 🕶️ Exploring **AR/VR** development and immersive experiences
+- 🐍 Comfortable in **Python** for scripting, tooling, and backend logic
+- ⚙️ Solid foundation in **C** — systems thinking from the ground up
+- 🌱 Always shipping something new
+- 💬 Ask me about React, Node.js, or getting started in AR/VR
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-030712?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-030712?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-030712?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Three.js](https://img.shields.io/badge/Three.js-030712?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-030712?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-030712?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-030712?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-030712?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-030712?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-030712?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**AR / VR & Tools**
+
+![WebXR](https://img.shields.io/badge/WebXR-030712?style=for-the-badge&logo=webxr&logoColor=7C3AED)
+![Unity](https://img.shields.io/badge/Unity-030712?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-030712?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-030712?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishnajha&show_icons=true&theme=dark&hide_border=true&bg_color=030712&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajha&layout=compact&theme=dark&hide_border=true&bg_color=030712&title_color=7C3AED&text_color=F8FAFC" height="165">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnajha&theme=dark&hide_border=true&background=030712&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" height="165">
+
+</div>
+
+> Replace `krishnajha` in the stat links above with your actual GitHub username so the cards pull your real data.
+
+<br>
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnajha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/krishnajha)
+[![Twitter](https://img.shields.io/badge/Twitter-030712?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/krishnajha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ikrishnajha21@example.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Thanks for stopping by — check back often, I'm always shipping something new 🚀</sub>
+</div>## Hi there 👋
+
+<!--
+**ikrishnajha21/ikrishnajha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
