@@ -1,134 +1,28 @@
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-  <img src="./assets/dark.svg" alt="Krishna Jha banner" width="100%">
-</picture>
+# 💫 About Me:
+Welcome to my GitHub! 👋 I'm Krishna Jha, a Computer Science Engineering student driven by curiosity and innovation. I specialize in MERN Stack development while actively exploring Artificial Intelligence, Machine Learning, and cloud technologies. I believe in writing clean code, building meaningful products, and learning something new every day.
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;AR%2FVR+Vibe+Coder;Python+%26+C+Engineer;Always+Building+Something;&font=JetBrains+Mono&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=520&height=40&separator=false" alt="typing banner">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnaisthename) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-jha-59b969303?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jhak99797) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikrishnajha21) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishna jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikrishnajha21@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ikrishnajha21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ikrishnajha21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ikrishnajha21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=krishnajha&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views">
-<img src="https://img.shields.io/github/followers/krishnajha?style=for-the-badge&color=22d3ee&labelColor=030712" alt="followers">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ikrishnajha21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ikrishnajha21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## About Me
+---
+[![](https://komarev.com/ghpvc/?username=ikrishnajha21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm **Krishna Jha** — a developer who builds across the full stack and pushes into immersive computing. I care about clean, fast interfaces on the web and equally love bringing ideas to life in AR/VR. I prototype fast and iterate in the open — "vibe coding" done with real engineering discipline underneath.
-
-```js
-const krishna = {
-  role: "MERN Stack Developer & AR/VR Explorer",
-  code: ["JavaScript", "Python", "C"],
-  currentFocus: "MERN Stack + AR/VR",
-  funFact: "ships faster than the coffee gets cold ☕",
-};
-```
-
-- 🔭 Currently building projects across the **MERN stack**
-- 🕶️ Exploring **AR/VR** development and immersive experiences
-- 🐍 Comfortable in **Python** for scripting, tooling, and backend logic
-- ⚙️ Solid foundation in **C** — systems thinking from the ground up
-- 🌱 Always shipping something new
-- 💬 Ask me about React, Node.js, or getting started in AR/VR
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-030712?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-030712?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-030712?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Three.js](https://img.shields.io/badge/Three.js-030712?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-030712?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-030712?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-030712?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-030712?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-030712?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-030712?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**AR / VR & Tools**
-
-![WebXR](https://img.shields.io/badge/WebXR-030712?style=for-the-badge&logo=webxr&logoColor=7C3AED)
-![Unity](https://img.shields.io/badge/Unity-030712?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-030712?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-030712?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishnajha&show_icons=true&theme=dark&hide_border=true&bg_color=030712&title_color=7C3AED&icon_color=22D3EE&text_color=F8FAFC" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajha&layout=compact&theme=dark&hide_border=true&bg_color=030712&title_color=7C3AED&text_color=F8FAFC" height="165">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnajha&theme=dark&hide_border=true&background=030712&ring=7C3AED&fire=22D3EE&currStreakLabel=F8FAFC" width="48%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnajha&theme=react-dark&bg_color=030712&color=22D3EE&line=7C3AED&point=F8FAFC&hide_border=true" width="97%">
-
-</div>
-
-<br>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnajha/krishnajha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishnajha/krishnajha/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/krishnajha/krishnajha/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — set up the GitHub Action in this repo to generate it automatically.</sub>
-
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=krishnajha&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies">
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krishnajha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/krishnajha)
-[![Twitter](https://img.shields.io/badge/Twitter-030712?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/krishnajha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:krishna.jha@example.com)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%">
-<sub>Thanks for stopping by — check back often, I'm always shipping something new 🚀</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
