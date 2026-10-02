@@ -1,6 +1,20 @@
-# 💫 About Me:
-Welcome to my GitHub! 👋 I'm Krishna Jha, a Computer Science Engineering student driven by curiosity and innovation. I specialize in MERN Stack development while actively exploring Artificial Intelligence, Machine Learning, and cloud technologies. I believe in writing clean code, building meaningful products, and learning something new every day.
+# Hi, I'm Krishna 👋
 
+Was supposed to figure life out.
+
+Somehow ended up in engineering instead.
+
+Now I'm just trying to understand things, build things, break things, fix them, and occasionally pretend I know what I'm doing.
+
+Learning. Building. Failing. Repeating.
+
+No perfect plan.
+No idea where this goes.
+
+Just taking it one day at a time
+and trying to make a little progress.
+
+Still figuring it out.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnaisthename) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-jha-59b969303?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jhak99797) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikrishnajha21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikrishnajha21@gmail.com) 
