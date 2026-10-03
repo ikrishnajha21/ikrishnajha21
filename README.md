@@ -1,4 +1,4 @@
-# Hi, I'm Krishna 👋
+# Hey, I'm Krishna Jha — just another engineer trying to make sense of things, one bug and one existential crisis at a time.
 
 Was supposed to figure life out.
 
