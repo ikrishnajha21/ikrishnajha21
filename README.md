@@ -4,8 +4,6 @@ Was supposed to figure life out.
 
 Somehow ended up in engineering instead.
 
-Now I'm just trying to understand things, build things, break things, fix them, and occasionally pretend I know what I'm doing.
-
 Learning. Building. Failing. Repeating.
 
 No perfect plan.
