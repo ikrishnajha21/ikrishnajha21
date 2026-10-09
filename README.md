@@ -110,28 +110,6 @@ Learning beyond the syllabus because "how does this actually work?" is usually t
 </tr>
 </table>
 
----
-
-## ✦ THE GITHUB SIDE OF THINGS
-
-<div align="center">
-
-<a href="https://github.com/ikrishnajha21">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ikrishnajha21&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=C43D4B&icon_color=C8A96B&text_color=F1E7D0&rank_icon=github" alt="Krishna's GitHub Statistics">
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img height="180" src="https://streak-stats.demolab.com/?user=ikrishnajha21&timezone=Asia%2FKolkata&hide_border=true&background=0B0B0D&stroke=30272A&ring=C43D4B&fire=C43D4B&currStreakLabel=C43D4B&sideLabels=9B9690&currStreakNum=F1E7D0&sideNums=F1E7D0&dates=6F6A66" alt="Krishna's GitHub Streak">
-</a>
-
-<br><br>
-
-<sub>Every commit is a small step. Every project teaches you something.</sub>
-
-</div>
-
----
-
 ## ✧ FIND ME AROUND THE INTERNET
 
 <div align="center">
