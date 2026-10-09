@@ -110,6 +110,8 @@ Learning beyond the syllabus because "how does this actually work?" is usually t
 </tr>
 </table>
 
+---
+
 ## ✧ FIND ME AROUND THE INTERNET
 
 <div align="center">
